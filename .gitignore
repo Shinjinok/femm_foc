@@ -1,3 +1,5 @@
-*.png
-femm_instance*/
 venv/
+__pycache__/
+femm_instance_*/
+*.png
+output.gif
